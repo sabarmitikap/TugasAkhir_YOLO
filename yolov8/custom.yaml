@@ -1,0 +1,7 @@
+path: /home/sabard4/yolov8/dataset/sample_data_tujuhratus
+train: /home/sabard4/yolov8/dataset/sample_data_tujuhratus/train
+test: /home/sabard4/yolov8/dataset/sample_data_tujuhratus/test
+val: /home/sabard4/yolov8/dataset/sample_data_tujuhratus/val
+
+nc: 3
+names: ['plastik', 'kaleng', 'kaca']
