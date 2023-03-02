@@ -1,0 +1,6 @@
+train: D:\Kuliah\Tugas Akhir\Data Sampah\sample_data_tujuhratus\train
+test: D:\Kuliah\Tugas Akhir\Data Sampah\sample_data_tujuhratus\test
+val: D:\Kuliah\Tugas Akhir\Data Sampah\sample_data_tujuhratus\val
+
+nc: 3
+names: ['plastik', 'kaleng', 'kaca']
